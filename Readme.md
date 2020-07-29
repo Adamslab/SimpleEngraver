@@ -4,6 +4,7 @@ A simple X/Y plotter for use with a laser diode.
 
 <img src="https://user-images.githubusercontent.com/45019189/88856522-07f0a880-d1cb-11ea-8b37-6dba98c19da6.jpg" height="300">
 <img src="https://user-images.githubusercontent.com/45019189/88856968-d2988a80-d1cb-11ea-8baa-74b1b8c8df84.jpg" height="300">
+<img src="https://user-images.githubusercontent.com/45019189/88859044-5e5fe600-d1cf-11ea-9cb4-e3b57fb75890.gif" height="300">
 
 
 
