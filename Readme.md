@@ -62,6 +62,7 @@ Make sure the wavelength of your laser is protected by your safety glasses!
 You can fasten the feet to a sheet of plywood or a table to increase rigidity of the assembly. 
 Tension the belts by pulling the belt tight and tensioning the M3 bolt on top so that it bites into the belt.
 
+https://www.thingiverse.com/thing:4556472
 
 Adam's Lab<br>
 www.adamslab.ca<br>
