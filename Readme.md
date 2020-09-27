@@ -20,14 +20,14 @@ https://www.youtube.com/watch?v=ll7KeXLQTyo
 ### BoM:
 
 * 1x Pair of Good Laser Goggles
-* 10x 21.5mm OD - 5mm ID roller wheels
+* 10x 5mm ID roller wheels - Either 21.5mm OD or 24mm OD
 * 10x M5x30mm Bolts
 * 10x M5 Nuts
 * 34x M3x10mm Bolts
 * 28x M3 T-Nuts
 * 6x M3 Nuts
 * 34x M3 Washers
-* 3x 2040 T-Slot Extrusion
+* 3x 2040 Extrusion - T-Slot if using 21.5mm Wheels otherwise V-Slot for 24mm OD Wheels
 * 1x GRBL Control board*
 * 1x PWM Laser Diode with Heatsink
 * 3x A4988 Stepper Drivers
